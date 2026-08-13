@@ -44,7 +44,7 @@
 
 ## 🌟 Overview
 
-The **AI-Powered Algorithmic Trading System** is a real-time paper trading simulator that bridges the gap between financial theory and AI automation. Users set up **smart trading conditions** for any stock — specifying their target profit % and maximum holding period — and the system autonomously monitors live prices, consults AI models for SELL/HOLD decisions, and triggers email notifications.
+The **AI-Powered Algorithmic Trading System** is a real-time paper trading simulator that bridges the gap between financial theory and AI automation. Users set up **smart trading conditions** for any stock — specifying their target profit % and maximum holding period — and the system autonomously monitors live prices, consults AI models for SELL/HOLD decisions, and triggers email notifications and alerts on email.
 
 > **Paper Trading** means real market data with virtual money — zero financial risk, full learning experience.
 
